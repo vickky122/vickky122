@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vikrantmani45@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Nothing because Life is making fun of me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
