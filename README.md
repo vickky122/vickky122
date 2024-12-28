@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickky122" alt="vickky122" /></a> </p>
 
 - 💬 Ask me about **Java, Spring boot, React JS, Frontend Development, Backend Development, Full Stack Development, etc.**
+- 💬 Currently, I am learning **Next JS, Spring AI, etc.**
 
 - 📫 How to reach me **vikrantmani45@gmail.com**
 
